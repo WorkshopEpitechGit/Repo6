@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main(
@@ -7,6 +8,6 @@ int main(
     printf(
         "%s",
     
-    "caca"
+    "merge"
 );
 }
